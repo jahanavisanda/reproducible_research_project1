@@ -24,7 +24,7 @@ setwd("C:/Users/Shengyu Chen/Dropbox/Academics/Coursera/Data Science Specializat
 activity<-read.csv("activity.csv")
 ```
 
-Exploring the basics of this data
+Exploring  basics of this data
 ```{r}
 dim(activity)
 names(activity)
